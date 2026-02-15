@@ -1,0 +1,31 @@
+{
+    "target_radius": 25,
+    "bullseye_radius": 5,
+    "num_targets": 4,
+    "game_duration": 120,
+    "special_target_duration": 2,
+    "target_points": 5,
+    "bullseye_points": 15,
+    "special_target_points": 25,
+    "special_bullseye_points": 50,
+    "high_scores": [
+        {
+            "name": "Richard",
+            "score": 2498
+        },
+        {
+            "name": "Richard",
+            "score": 2056
+        },
+        {
+            "name": "richard",
+            "score": 1500
+        }
+    ],
+    "middle_radius": 15,
+    "outer_points": 5,
+    "middle_points": 10,
+    "special_outer_points": 25,
+    "special_middle_points": 40,
+    "miss_penalty": -1
+}
